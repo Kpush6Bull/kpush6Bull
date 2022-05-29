@@ -68,5 +68,5 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kpush6Bull&layout=compact&theme=vision-friendly-dark)]
 
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kpush6Bull&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kpush6Bull&show_icons=true&theme=gruvbox)
 -->
