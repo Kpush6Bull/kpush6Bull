@@ -73,5 +73,7 @@ I'm a dev who keeps learning and creating new things! <img src="https://media.gi
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kpush6Bull&show_icons=true&theme=gruvbox)
 ---
+<div align="center">
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11124144009&cover_image=true&theme=default&bar_color=8c0d64&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+</div>
 -->
