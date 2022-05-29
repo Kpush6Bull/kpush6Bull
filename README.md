@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Kpush%20GitProfil&animation=twinkling&fontSize=90)
 
 
-<div id="header" align="center">
+<!-- <div id="header" align="center">
   <img src="https://media.giphy.com/media/VeGyWBK88Mn7GF0lPu/giphy.gif" width="100"/>
-</div>
+</div> -->
 
 <div id="badges" align="center">
   <a href="https://http.cat/404">
