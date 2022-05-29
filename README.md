@@ -38,7 +38,7 @@ I'm a dev who keeps learning and creating new things! <img src="https://media.gi
 
 - :zap: In my free time, I Dev Script For FiveM Server 
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kpush-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :discord:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kpush-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
 ---
 
