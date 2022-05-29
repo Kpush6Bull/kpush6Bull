@@ -38,7 +38,7 @@ I'm a dev who keeps learning and creating new things! <img src="https://media.gi
 
 - :zap: In my free time, I Dev Script For FiveM Server 
 
-- :discord:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kpush-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- <img src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-16.png" title="Java" alt="Java" width="40" height="40"/>&nbsp; How to reach me: ⓀⓅⓊⓈⒽ™#4720
 
 ---
 
