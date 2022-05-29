@@ -67,12 +67,17 @@ I'm a dev who keeps learning and creating new things! <img src="https://media.gi
 ---
 
 ### :fire: My Stats :
+<h1 align="center">
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kpush6Bull&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kpush6Bull&layout=compact&theme=vision-friendly-dark)](https://github.com/Kpush6Bull/github-readme-stats)
-
+</h1>
 ---
+<h1 align="center">
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kpush6Bull&show_icons=true&theme=gruvbox)
 
+</h1>
 ---
 <h1 align="center">
 
