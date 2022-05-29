@@ -19,7 +19,7 @@
 </div>
 
 <h1 align="center">
-  Welcome To My Profile
+  Hi there, I'm Gab - aka Kpush
   <img src="https://media.giphy.com/media/3o7bu6KDIpS4OFRP6o/giphy.gif" width="30px"/>
 </h1>
 
@@ -30,7 +30,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Baguette.
+I'm a dev who keeps learning and creating new things! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Baguette.
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
