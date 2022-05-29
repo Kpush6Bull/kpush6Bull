@@ -35,9 +35,9 @@
 ### :man_technologist: About Me :
 I'm a dev who keeps learning and creating new things! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Baguette.
 
-- :telescope:  I work as a software engineer and driver developer dedicated to cryptocurrency mining.
+- :hotsprings:  I work as a software engineer and driver developer dedicated to cryptocurrency mining.
 
-- :seedling: Exploring Technical Content Writing.
+- :construction: Exploring Pool Technical Content Writing.
 
 - :zap: In my free time, I Dev Script For FiveM Server 
 
