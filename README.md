@@ -19,8 +19,8 @@
 </div>
 
 <h1 align="center">
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Welcome To My Profile
+  <img src="https://media.giphy.com/media/3o7bu6KDIpS4OFRP6o/giphy.gif" width="30px"/>
 </h1>
 
 <div align="center">
