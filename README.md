@@ -39,7 +39,7 @@ I'm a dev who keeps learning and creating new things! <img src="https://media.gi
 
 - :construction: Exploring Pool Technical Content Writing.
 
-- :zap: In my free time, I Dev Script For FiveM Server 
+- :zap: In my free time, I Dev Script For FiveM Server for my Gaming Friend
 
 - How to reach me: <img src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-7-1.png" title="Java" alt="Java" width="40" height="40"/>&nbsp;  ⓀⓅⓊⓈⒽ™#4720
 
